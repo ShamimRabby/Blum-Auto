@@ -3,7 +3,7 @@
 AUTO CLAIM FOR BLUM / @blum
 
 # Table of Contents
-- [BlumTod](#blumtod)
+- [Blum-Auto](#blum-Auto)
 - [Table of Contents](#table-of-contents)
 - [Warning](#warning)
 - [Support My Work!](#support-my-work)
