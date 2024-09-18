@@ -1,4 +1,4 @@
-# BlumTod
+# Blum-Auto
 
 AUTO CLAIM FOR BLUM / @blum
 
@@ -26,15 +26,6 @@ AUTO CLAIM FOR BLUM / @blum
 # Warning
 
 All risks are borne by the user
-
-# Support My Work!
-
-If you like my work, you can support me through the following links:
-
-- [Indonesia] https://s.id/nusanqr (QRIS)
-- [Indonesia] https://trakteer.id/fawwazthoerif/tip
-- [Global] https://sociabuzz.com/fawwazthoerif/tribe
-- If you want to send support in another form, you can contact me via Telegram.
 
 # Available Features
 
@@ -117,9 +108,9 @@ Please pay close attention to whether the proxy you are using requires authentic
    git clone https://github.com/akasakaid/blumtod.git
    ```
 
-3. Enter the BlumTod folder
+3. Enter the Blum-Auto folder
    ```
-   cd blumtod
+   cd Blum-Auto
    ```
 
 4. Install the required modules/libraries.
@@ -151,12 +142,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone git https://github.com/ShamimRabby/Blum-Auto.git
    ```
 
 3. Enter the BlumTod folder
    ```
-   cd blumtod
+   cd Blum-Auto
    ```
 
 4. Install the required modules/libraries.
@@ -188,12 +179,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/ShamimRabby/Blum-Auto.git
    ```
 
 3. Enter the BlumTod folder
    ```
-   cd blumtod
+   cd Blum-Auto
    ```
 
 4. Install the required modules/libraries.
@@ -234,7 +225,7 @@ You can run the bot script 24/7 using a VPS/RDP. You can use the `screen` applic
 
 # Discussion
 
-If you have questions or anything else, you can ask here: [@sdsproject_chat](https://t.me/sdsproject_chat)
+If you have questions or anything else, you can ask here ([https://t.me/sdsproject_chat](https://t.me/+PfPRKTkXUl5jNDM1))
 
 # Questions and Answers
 
