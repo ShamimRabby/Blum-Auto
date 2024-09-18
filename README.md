@@ -105,7 +105,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone git https://github.com/ShamimRabby/Blum-Auto.git
    ```
 
 3. Enter the Blum-Auto folder
